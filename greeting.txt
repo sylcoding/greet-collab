@@ -1,7 +1,13 @@
 Hello everyone! - Ramon
+<<<<<<< HEAD
 Hi Ray, it's Amy
+=======
+Julianne Clouthier
+>>>>>>> 1a876c7a51981782f4ee9160160bbc24103209e1
 Alex
 hello again!  - Ramon
+mary g
+Kat 2
 lisagit p
 hello again!  - Ramon
 mary g
